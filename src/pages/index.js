@@ -16,11 +16,7 @@ const IndexPage = () => (
     <br></br>
     <br></br>
     <br></br>
-    <p>Now go build something great.</p>
-    <br></br>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
+    <p>placeholder</p>
     <br></br>
     <br></br>
     <br></br>
@@ -29,7 +25,7 @@ const IndexPage = () => (
     <br></br>
     <br></br>
     <br></br>
-    <Link to="/page-2/">Go to page 2</Link>
+    <br></br>
     <ProjectBlock></ProjectBlock>
   </Layout>
 )
