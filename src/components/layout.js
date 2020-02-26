@@ -26,8 +26,8 @@ const Layout = ({ children }) => {
   return (
     <>
       {/* <Header siteTitle={"About"
-      } /> */}
-      {/* <div
+      } />
+      <div
         style={{
           marginTop: `25%`,
         }}
@@ -39,7 +39,7 @@ const Layout = ({ children }) => {
           <a href="https://www.gatsbyjs.org">Gatsby</a> */}
         </footer>
       {/* </div> */}
-    </>
+    // </>
   )
 }
 

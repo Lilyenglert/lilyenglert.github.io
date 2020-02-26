@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Lily Croskey-Englert`,
+    description: `Hi! I’m a product designer and frontend developer based in New York. In December 2019 I graduated from Cornell University with a masters in Information Science. Before that, I was a design intern at IBM Watson bulding a design system for Watson Health.`,
+    author: `Lily Croskey-Englert`,
   },
   plugins: [
     `gatsby-plugin-sass`,
