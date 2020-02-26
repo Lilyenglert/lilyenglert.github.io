@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Lily Croskey-Englert`,
-    description: `Hi! I’m a product designer and frontend developer based in New York. In December 2019 I graduated from Cornell University with a masters in Information Science. Before that, I was a design intern at IBM Watson bulding a design system for Watson Health.`,
+    description: `Hi! I’m a product designer and frontend developer based in New York.`,
     author: `Lily Croskey-Englert`,
   },
   plugins: [
