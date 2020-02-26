@@ -11,7 +11,7 @@ const Header = ({ siteTitle }) => (
       width: "100%",
       marginBottom: `1.45rem`,
       marginTop: '60px',
-      paddingRight: '120px',
+      paddingRight: '100px',
     }}
   >
     <div>
@@ -20,6 +20,7 @@ const Header = ({ siteTitle }) => (
           <Link
             to="/"
             style={{
+              padding: '15px',
               fontFamily: 'Montserrat',
               color: `black`,
               textDecoration: `none`,
@@ -31,6 +32,8 @@ const Header = ({ siteTitle }) => (
           <Link
             to="/"
             style={{
+              padding: '15px',
+              fontFamily: 'Montserrat',
               color: `black`,
               textDecoration: `none`,
               fontSize: '18px',
@@ -41,6 +44,8 @@ const Header = ({ siteTitle }) => (
           <Link
             to="/"
             style={{
+              padding: '15px',
+              fontFamily: 'Montserrat',
               color: `black`,
               textDecoration: `none`,
               fontSize: '18px',

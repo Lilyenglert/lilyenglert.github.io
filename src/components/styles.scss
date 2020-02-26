@@ -1,0 +1,63 @@
+// VARIABLES
+
+// base colors
+$dark: #212121;
+$light: #FFFFFF;
+
+// accents 
+$red: #FF2121;
+$blue: #007AFF;
+$yellow: #FFC21E;
+
+// font sizes 
+$text-xlg: 48pt;
+$text-lg: 24pt;
+$text-md: 20pt;
+$text-sm: 18pt;
+$text-xsm: 14pt;
+
+// STYLES
+// project-block {
+// }
+// simple variant styles
+.simple-left {
+  max-width: 75%;
+}
+
+//html
+p {
+  color: $blue;
+}
+
+// detailed variant styles
+
+// left varient styles
+
+// right varient styles
+
+.main-text {
+  font-family: 'Montserrat';
+  font-size: $text-xsm;
+}
+
+.title-text {
+  font-family: 'Montserrat';
+}
+
+.placeholder-text {
+  font-family: 'Montserrat';
+  font-size: $text-xsm;
+  font-weight: 500;
+  color: rgb(104, 104, 104);
+  line-height: 21pt;
+}
+
+.center {
+  margin: auto;
+  margin-top: 350px;
+  max-width: 500px;
+}
+
+a {
+  color:$blue;
+}

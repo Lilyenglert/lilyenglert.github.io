@@ -1,24 +1,12 @@
 import PropTypes from "prop-types"
 import React from "react"
+import './styles.scss';
 
-const ProjectBlock = ({blockTitle, blockText}) => (
-    <div style={{
-      background: `white`,
-      marginTop: '35%',
-      marginBottom: '35%',
-      marginRight: '25%',
-    }}>
+const ProjectBlock = ({blockTitle, blockText, blockVarient}) => (
+    <div className= {blockVarient} >
       <br></br>
-      <h1
-      style={{
-        fontFamily: 'Montserrat',
-        }}>
-        {blockTitle}</h1>
-      <p style={{
-        fontFamily: 'Montserrat',
-        }}>
-        {blockText}
-      </p>
+      <h1 className= 'title-text'>{blockTitle}</h1>
+      <p className= 'main-text'> {blockText}</p>
     </div>
 )
 
