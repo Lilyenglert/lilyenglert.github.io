@@ -26,7 +26,7 @@ const IndexPage = () => (
     <br></br>
     <br></br> */}
     <div className = 'center'>
-    <p className = 'placeholder-text'> <a>Hey, thanks for stopping by!</a> I'm currently updating my site and would love for you to see it when it's done. If you'd like a pdf version of my portfolio, shoot me an email at <a>lmc327@cornell.edu </a> — Lily</p>
+    <p className = 'placeholder-text'> <a>Hey, thanks for stopping by!</a> I'm currently updating my site and would love for you to see it when it's done. If you'd like a pdf version of my portfolio, shoot me an email at <a>lmc327@cornell.edu.</a> — Lily</p>
     </div>
   </Layout>
 )

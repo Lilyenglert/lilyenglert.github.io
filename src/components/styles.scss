@@ -15,6 +15,7 @@ $text-lg: 24pt;
 $text-md: 20pt;
 $text-sm: 18pt;
 $text-xsm: 14pt;
+$text-xxsm: 12pt;
 
 // STYLES
 // project-block {
@@ -46,16 +47,16 @@ p {
 
 .placeholder-text {
   font-family: 'Montserrat';
-  font-size: $text-xsm;
+  font-size: $text-xxsm;
   font-weight: 400;
   color: rgb(104, 104, 104);
-  line-height: 22pt;
+  line-height: 20pt;
 }
 
 .center {
   margin: auto;
-  margin-top: 350px;
-  max-width: 500px;
+  margin-top: 300px;
+  max-width: 425px;
 }
 
 a {
